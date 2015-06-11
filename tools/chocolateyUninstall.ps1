@@ -1,0 +1,2 @@
+
+Uninstall-ChocolateyZipPackage LuaBuglight LuaBuglight.zip
