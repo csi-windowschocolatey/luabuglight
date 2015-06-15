@@ -4,8 +4,6 @@ $validExitCodes = @(0) #please insert other valid exit codes here, exit codes fo
 
 Install-ChocolateyZipPackage "$packageName" "$url" "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 
-Write-Output "***********************************************************************************"
-Write-Output "*  INSTRUCTIONS: Type `"apimonitor-x86.exe`" to monitor 32-bit Windows processes. *"
-Write-Output "*                Type `"apimonitor-x64.exe`" to monitor 64-bit Windows processes. *"
-Write-Output "*       More Info: http://www.rohitab.com/apimonitor                              *"
-Write-Output "***********************************************************************************"
+Write-Output "***********************************************************************************************************************"
+Write-Output "*  INSTRUCTIONS: In a new, non-admin prompt or in explorer, type `"luabuglight.exe`" to monitor to start luabuglight. *"
+Write-Output "***********************************************************************************************************************"

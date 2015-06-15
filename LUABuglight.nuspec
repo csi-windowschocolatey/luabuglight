@@ -13,9 +13,9 @@ Identifies and isolates problems with applications that attempt operations that 
     </description>
     <projectUrl>http://blogs.msdn.com/b/aaron_margosis/archive/2012/11/28/lua-buglight-2-2-with-support-for-windows-8.aspx</projectUrl>
     <tags>Non-admin, LUA, Test</tags>
-    <copyright>Aaron Margosisg</copyright>
+    <copyright>Aaron Margosis</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://cdn.rawgit.com/csi-windowschocolatey/apimonitor/master/apimonitor-icon.png</iconUrl>
+    <iconUrl>https://cdn.rawgit.com/csi-windowschocolatey/luabuglight/master/appicon.png</iconUrl>
     <releaseNotes>This version is compatible with Windows 8.</releaseNotes>
   </metadata>
 </package>
