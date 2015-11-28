@@ -18,4 +18,4 @@ Identifies and isolates problems with applications that attempt operations that 
     <iconUrl>https://cdn.rawgit.com/csi-windowschocolatey/luabuglight/master/appicon.png</iconUrl>
     <releaseNotes>This version is compatible up through Windows 10.</releaseNotes>
   </metadata>
-</package>
+</package> 
